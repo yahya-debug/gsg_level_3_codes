@@ -13,3 +13,8 @@ subject to the constraint that no two consecutive days have the same activity.
 ## Example:-
 ### For n = 3;
 ![Ex: n = 3](./in_out.PNG)
+
+## Expected values & Explanation:-
+In every recursive step we can increase the count of possible arrangements.
+But easily we can expect the total number of them just with the following formula:
+$X(n) = 3 /times 2^(n-1)$
