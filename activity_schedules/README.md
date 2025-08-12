@@ -10,4 +10,6 @@ subject to the constraint that no two consecutive days have the same activity.
  * Print each valid schedule on its own line, with activities separated by a single space.
  * After listing all schedules, print a final line: COUNT: X where X is the total number of schedules generated.
 
-##
+## Example:-
+### For n = 3;
+![Ex: n = 3](./in_out.PNG)
