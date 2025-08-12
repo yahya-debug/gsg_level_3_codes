@@ -17,4 +17,4 @@ subject to the constraint that no two consecutive days have the same activity.
 ## Expected values & Explanation:-
 In every recursive step we can increase the count of possible arrangements.\
 But easily we can expect the total number of them just with the following formula:\
-$X(n) = 3 \times\ 2^<sup>n-1</sup>$
+$X(n) = 3 $\times\$ 2<sup>n-1</sup>$
